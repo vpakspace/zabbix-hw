@@ -9,3 +9,9 @@
 Добавлены в Zabbix два хоста и заданы им имена pakvm-1 и pakvm-2
 
 ![Задание 2](img/task2-3-hosts.png)
+
+## Задание 4 
+
+Создан свой кастомный дашборд.
+Custom Monitoring Dashboard
+![Задание 4](img/task4-dashboard.png)
